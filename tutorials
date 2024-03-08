@@ -1,10 +1,30 @@
-<tutorials>
-        <tutorial>
-          <id>b59AgnPOGxc</id>
-          <title>3+ Ways to Write Clean Code in JavaScript</title>
-        </tutorial>
-	      <tutorial>
-	      	<id>b59AgnPOGxc</id>
-	      	<title>3+ Ways to Write Clean Code in JavaScript</title>
-      	</tutorial> 
-</tutorials>
+<contacts>
+<contact>
+<key>1</key>
+<role>DLIP</role>
+<rank>Captain</rank>
+<grade>OF2</grade>
+<div>G1</div>
+<section>WF</section>
+<extension>1234</extension>
+<office>123</office>
+<email1>hello1@1.com</email1>
+<email2>hello2@2.com</email2>
+<email3>hello3@3.com</email3>
+<dcuser>rober6527</dcuser>
+</contact>
+<contact>
+<key>2</key>
+<role>SNR</role>
+<rank>Sergeant</rank>
+<grade>OR6</grade>
+<div>G2</div>
+<section>WF2</section>
+<extension>5678</extension>
+<office>456</office>
+<email1>hello4@4.com</email1>
+<email2>hello5@5.com</email2>
+<email3>hello6@6.com</email3>
+<dcuser>rober7638</dcuser>
+</contact>    
+</contacts>
